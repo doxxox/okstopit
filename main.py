@@ -36,4 +36,4 @@ async def on_ready():
     print(f"Logged in as {bot.user} and synced commands.")
 
 # Run the bot
-bot.run('MTM1NDIyNjcxOTQ0NzU4NDk1MQ.GlHcMP.tzaTxeny2jhmk9xrGjpmZi9yAR2UKNV6yaOQHQ')
+bot.run('MTM1NDIyNjcxOTQ0NzU4NDk1MQ.GOWVQ3.OKbgGh4L7SicsMIi-DSPEpPz0eGo9kjBLamguU')
